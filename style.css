@@ -4,7 +4,7 @@ body {
   @font-face {
     font-family: 'OCR-A BT';
     font-style: normal;
-    font-weight: normal;
+    font-weight: normal; 
     src: local('OCR-A BT'), url('OCR-a___.woff') format('woff');
   }
   h1 {
