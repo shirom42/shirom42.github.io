@@ -31,3 +31,19 @@ body {
     border: none;
     color: whitesmoke
   }
+
+  .container {
+    position: relative;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 200%;
+    color: whitesmoke;
+  }
+
+  .centered {
+    position: absolute;
+    bottom: 50%;
+    right: 50%;
+    transform: trnaslate(-50%,50%);
+  }
+
