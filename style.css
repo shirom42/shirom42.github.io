@@ -1,6 +1,7 @@
 body {
     background-color: black;
   }
+
   @font-face {
     font-family: 'OCR-A BT';
     font-style: normal;
@@ -10,17 +11,23 @@ body {
   h1 {
     color: whitesmoke;
     font-family:'OCR-A BT';
-    font-size: 800%;
+    font-size: 1500%;
     text-align: center;
   }
   h2 {
     color: whitesmoke;
     font-family:'Courier New', Courier, monospace;
-    font-size: large;
+    font-size: 300%;
     text-align:center;
   }
 
   p {
     color: whitesmoke;
     font-family: 'Courier New', Courier, monospace;
+  }
+
+  .project_button {
+    background-colour: black;
+    border: none;
+    color: whitesmoke
   }
