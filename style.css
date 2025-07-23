@@ -38,9 +38,7 @@ body {
   .container {
     position: relative;
     text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 200%;
-    color: whitesmoke;
+
     background-color: black;
   }
 
@@ -48,6 +46,9 @@ body {
     position: absolute;
     bottom: 50%;
     right: 50%;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 200%;
+    color: whitesmoke;
     transform: translate(-50%,-50%);
   }
 
