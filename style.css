@@ -26,10 +26,10 @@ body {
     font-family: 'Courier New', Courier, monospace;
   }
 
-  .project_button {
+  .button {
     background-colour: black;
     border: none;
-    color: whitesmoke
+    color: green
   }
 
   .container {
